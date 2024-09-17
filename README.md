@@ -2,6 +2,9 @@
 
 Hello World! We're Ready To Compete In POLSRI IT Festival 2024 In Web Design Competition! 🔥🔥🔥
 
+Check this out!
+itfest-polsri-24.pages.dev
+
 ### Our Team
 
 1. Achmad Ilmi Al Akbar
